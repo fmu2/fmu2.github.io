@@ -1,34 +1,167 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"ardelean":
+  - firstname: ["Andrei"]
+    url: https://people.epfl.ch/a.ardelean/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"bagchi":
+  - firstname: ["Saurabh"]
+    url: https://bagchi.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bruschini":
+  - firstname: ["Claudio"]
+    url: https://people.epfl.ch/claudio.bruschini/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"charbon":
+  - firstname: ["Edoardo"]
+    url: https://people.epfl.ch/edoardo.charbon/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"chaterji": 
+  - firstname: ["Somali"]
+    url: https://schaterji.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"dou":
+  - firstname: ["Yimeng"]
+    url: https://scholar.google.com/citations?user=yoZ4TwQAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"gutierrez-barragan":
+  - firstname: ["Felipe"]
+    url: https://pages.cs.wisc.edu/~felipe/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"gao": 
+  - firstname: ["Jianfeng"]
+    url: https://www.microsoft.com/en-us/research/people/jfgao/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"gitter": 
+  - firstname: ["Anthony", "Tony"]
+    url: https://www.biostat.wisc.edu/~gitter/
+
+"gleicher":
+  - firstname: ["Michael", "Mike"]
+    url: https://gleicher.sites.cs.wisc.edu/
+
+"gupta":
+  - firstname: ["Mohit"]
+    url: https://wisionlab.com/people/mohit-gupta/
+
+"hu":
+  - firstname: ["Yu Hen"]
+    url: https://directory.engr.wisc.edu/ece/Faculty/Hu_Yu-hen/
+
+"ingle":
+  - firstname: ["Atul"]
+    url: https://www.atulingle.com/
+
+"jungerman":
+  - firstname: ["Sacha"]
+    url: https://wisionlab.com/people/sacha-jungerman/
+
+"lee":
+  - firstname: ["Jayoung"]
+    url: https://scholar.google.com/citations?user=MAPqXgoAAAAJ&hl=en
+
+  - firstname: ["Yong Jae"]
+    url: https://pages.cs.wisc.edu/~yongjaelee/
+
+"li":
+  - firstname: ["Yiquan"]
+    url: https://li-yiquan.github.io/
+
+  - firstname: ["Yin"]
+    url: https://biostat.wisc.edu/~yli/
+  
+  - firstname: ["Yuheng"]
+    url: https://yuheng-li.github.io/
+  
+  - firstname: ["Chunyuan"]
+    url: https://chunyuan.li/
+
+"liang":
+  - firstname: ["Yingyu"]
+    url: https://pages.cs.wisc.edu/~yliang/
+
+"lin":
+  - firstname: ["Kuan Heng", "Jordan"]
+    url: https://kuanhenglin.github.io/
+
+"liu":
+  - firstname: ["Haotian"]
+    url: https://hliu.cc/
+  
+  - firstname: ["Xiaochun"]
+    url: https://xiaochunliu.github.io/
+  
+  - firstname: ["Yanli"]
+    url: https://scholar.google.ca/citations?user=YzXIxCwAAAAJ&hl=en
+
+"magnano":
+  - firstname: ["Chris"]
+    url: https://computationalbiomed.hms.harvard.edu/about/people/526/
+
+"mukherjee":
+  - firstname: ["Preeti"]
+    url: https://scholar.google.co.in/citations?user=QYFQutkAAAAJ&hl=en
+
+"mo":
+  - firstname: ["Sicheng"]
+    url: https://sichengmo.github.io/
+
+"nam":
+  - firstname: ["Ji Hyun"]
+    url: https://jihyun-nam.github.io/
+
+"peng":
+  - firstname: ["Jiayong"]
+    url: https://scholar.google.com/citations?user=cXdZl0wAAAAJ&hl=zh-CN
+
+"radwin":
+  - firstname: ["Robert"]
+    url: https://directory.engr.wisc.edu/ie/Faculty/Radwin_Robert/
+
+"raghavan":
+  - firstname: ["Sid", "Siddeshwar"]
+    url: https://siddeshwar-raghavan.github.io/
+
+"russ":
+  - firstname: ["Rosemary"]
+    url: https://ci.education.wisc.edu/fac-staff/russ-rosemary/
+
+"shi":
+  - firstname: ["Zhenmei"]
+    url: https://pages.cs.wisc.edu/~zhmeishi/
+
+"sifferman":
+  - firstname: ["Carter"]
+    url: https://cpsiff.github.io/
+
+"varghese":
+  - firstname: ["Tomy"]
+    url: https://scholar.google.com/citations?user=I-TS2voAAAAJ&hl=en
+
+"velten": 
+  - firstname: ["Andreas"]
+    url: https://biostat.wisc.edu/~velten/
+
+"wang":
+  - firstname: ["Jian", "James"]
+    url: https://jianwang-cmu.github.io/
+
+"wu":
+  - firstname: ["Qingyang"]
+    url: https://qywu.github.io/about.html
+  
+  - firstname: ["Yicheng"]
+    url: https://yichengwu.github.io/
+
+"xu":
+  - firstname: ["Zhuoyan"]
+    url: https://pages.cs.wisc.edu/~zxu444/
+  
+  - firstname: ["Ran"]
+    url: https://starsthu2016.github.io/
+
+"yang":
+  - firstname: ["Jianwei"]
+    url: https://jwyang.github.io/
+
+"zhou":
+  - firstname: ["Bolei"]
+    url: https://boleizhou.github.io/
