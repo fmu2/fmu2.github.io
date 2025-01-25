@@ -18,6 +18,17 @@
   - firstname: ["Somali"]
     url: https://schaterji.io/
 
+"chen":
+  - firstname: ["Catherine"]
+    url: https://catherinechenty.com/
+  
+  - firstname: ["Hanjie"]
+    url: https://hanjiechen.github.io/
+
+"ding":
+  - firstname: ["Kaize"]
+    url: https://kaize0409.github.io/
+
 "dou":
   - firstname: ["Yimeng"]
     url: https://scholar.google.com/citations?user=yoZ4TwQAAAAJ&hl=en
@@ -38,9 +49,17 @@
   - firstname: ["Michael", "Mike"]
     url: https://gleicher.sites.cs.wisc.edu/
 
+"gui":
+  - firstname: ["Fred"]
+    url: https://www.fredgui.com/
+
 "gupta":
   - firstname: ["Mohit"]
     url: https://wisionlab.com/people/mohit-gupta/
+
+"he":
+  - firstname: ["Lifang"]
+    url: https://engineering.lehigh.edu/faculty/lifang-he
 
 "hu":
   - firstname: ["Yu Hen"]
@@ -53,6 +72,10 @@
 "jungerman":
   - firstname: ["Sacha"]
     url: https://wisionlab.com/people/sacha-jungerman/
+
+"klingher":
+  - firstname: ["Ben"]
+    url: https://bklingher.github.io/
 
 "lee":
   - firstname: ["Jayoung"]
@@ -73,6 +96,9 @@
   
   - firstname: ["Chunyuan"]
     url: https://chunyuan.li/
+  
+  - firstname: ["Lincan"]
+    url: https://lincanli.com/
 
 "liang":
   - firstname: ["Yingyu"]
@@ -132,6 +158,10 @@
   - firstname: ["Carter"]
     url: https://cpsiff.github.io/
 
+"sun": 
+  - firstname: ["Lichao"]
+    url: https://lichao-sun.github.io/
+
 "varghese":
   - firstname: ["Tomy"]
     url: https://scholar.google.com/citations?user=I-TS2voAAAAJ&hl=en
@@ -143,6 +173,9 @@
 "wang":
   - firstname: ["Jian", "James"]
     url: https://jianwang-cmu.github.io/
+  
+  - firstname: ["Zhengguang"]
+    url: https://zhengguangw.github.io/
 
 "wu":
   - firstname: ["Qingyang"]
@@ -165,3 +198,6 @@
 "zhou":
   - firstname: ["Bolei"]
     url: https://boleizhou.github.io/
+
+  - firstname: ["Junlong"]
+    url: https://zhoujunlong.com/
