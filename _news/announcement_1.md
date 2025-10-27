@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-16 09:00:00-0400
+date: 2025-05-05 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Joining NVIDIA as a Senior Deep Learning Algorithms Engineer.
+Joining Meta GenAI as an AI Research Scientist!
