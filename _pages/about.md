@@ -21,7 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 I research **multimodal intelligence** and advance **Generative AI** across data, modeling, and systems optimization.
 
-I am currently an AI Research Scientist at Meta Superintelligence Labs, building world-class video generation and editing models. Previously, I was a Senior Deep Learning Algorithms Engineer at NVIDIA, where I worked on inference optimization of multimodal LLMs. I graduated with a PhD in [Computer Sciences](https://www.cs.wisc.edu/) from the University of Wisconsin-Madison, advised by Prof. [Yin Li](https://www.biostat.wisc.edu/~yli/). Before that, I received my Master's degrees in Computer Sciences and Pharmaceutical Sciences from UW-Madison, and a Bachelor's degree in Biology from Zhejiang University.
+I am currently an AI Research Scientist at Meta Superintelligence Labs, building world-class video generation and editing models. Previously, I was a Senior Deep Learning Algorithms Engineer at NVIDIA, where I worked on inference optimization of multimodal LLMs.
+
+I graduated with a PhD in [Computer Sciences](https://www.cs.wisc.edu/) from the University of Wisconsin-Madison, advised by Prof. [Yin Li](https://www.biostat.wisc.edu/~yli/). Before that, I received my Master's degrees in Computer Sciences and Pharmaceutical Sciences from UW-Madison, and a Bachelor's degree in Biology from Zhejiang University.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
