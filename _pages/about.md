@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: fmu at wisc.edu | <a href='https://www.linkedin.com/in/fz-mu/'>LinkedIn</a> | <a href='https://scholar.google.com/citations?user=OOymFJsAAAAJ&hl=en'>Scholar</a> | <a href='https://github.com/fmu2'>GitHub</a> | <a href='https://fmu2.github.io/assets/pdf/cv_2025.pdf'>CV</a>
+subtitle: fmu at wisc.edu | <a href='https://www.linkedin.com/in/fz-mu/'>LinkedIn</a> | <a href='https://scholar.google.com/citations?user=OOymFJsAAAAJ&hl=en'>Scholar</a> | <a href='https://github.com/fmu2'>GitHub</a> | <a href='https://fmu2.github.io/assets/pdf/cv_2025_10_fangzhou.pdf'>CV</a>
 
 profile:
   align: right
