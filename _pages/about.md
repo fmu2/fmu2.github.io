@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: fmu at wisc.edu | <a href='https://www.linkedin.com/in/fz-mu/'>LinkedIn</a> | <a href='https://scholar.google.com/citations?user=OOymFJsAAAAJ&hl=en'>Scholar</a> | <a href='https://github.com/fmu2'>GitHub</a> | <a href='https://fmu2.github.io/assets/pdf/cv_2024.pdf'>CV</a>
+subtitle: fmu at wisc.edu | <a href='https://www.linkedin.com/in/fz-mu/'>LinkedIn</a> | <a href='https://scholar.google.com/citations?user=OOymFJsAAAAJ&hl=en'>Scholar</a> | <a href='https://github.com/fmu2'>GitHub</a> | <a href='https://fmu2.github.io/assets/pdf/cv_2025.pdf'>CV</a>
 
 profile:
   align: right
@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Senior Deep Learning Algorithms Engineer at [NVIDIA](https://www.nvidia.com/en-us/). I graduated with a PhD in [Computer Sciences](https://www.cs.wisc.edu/) from the [University of Wisconsin-Madison](https://www.wisc.edu/) (advisor: Prof. [Yin Li](https://www.biostat.wisc.edu/~yli/)) in December 2023. Previously, I received Master's degrees in Computer Sciences and Pharmaceutical Sciences from UW-Madison, and a Bachelor's degree in Biology from [Zhejiang University](https://www.zju.edu.cn/english/).
+I research **multimodal intelligence** and advance **Generative AI** across data, modeling, and systems optimization.
 
-I am broadly interested in **computer vision** and **machine learning**. I have worked on computational imaging, 3D vision, image generation and manipulation, video understanding, and foundations of deep learning. These days, I combine (Multimodal) Foundation Models to enable (1) visual inference by re-creating the inputs (*analysis by synthesis*), and (2) content generation and manipulation through visual understanding (*synthesis by analysis*).
+I am currently an AI Research Scientist at Meta Superintelligence Labs, building world-class video generation and editing models. Previously, I was a Senior Deep Learning Algorithms Engineer at NVIDIA, where I worked on inference optimization of multimodal LLMs. I graduated with a PhD in [Computer Sciences](https://www.cs.wisc.edu/) from the University of Wisconsin-Madison, advised by Prof. [Yin Li](https://www.biostat.wisc.edu/~yli/). Before that, I received my Master's degrees in Computer Sciences and Pharmaceutical Sciences from UW-Madison, and a Bachelor's degree in Biology from Zhejiang University.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
